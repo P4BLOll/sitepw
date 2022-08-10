@@ -1,0 +1,13 @@
+body{
+
+  background-image: url(https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/03/Monte-Olimpo.jpg );
+  background-repeat: no-repeat;
+  background-size: cover;
+  }
+  .container{
+    font-family: "Papyrus", fantasy;;
+  }
+  p{
+      font-size: 20px;
+  }
+  
